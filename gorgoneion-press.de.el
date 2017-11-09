@@ -207,7 +207,7 @@ relative link in the sitemap-publish function"
 </footer>")	
 	("gorgoneion-press-static"
 	 :base-directory "~/org/websites/gorgoneion-press.de/org-files/"
-	 :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
+	 :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf\\|epub\\|mobi"
 	 :publishing-directory "~/org/websites/gorgoneion-press.de/public_html/"
 	 :recursive t
 	 :publishing-function org-publish-attachment)))
