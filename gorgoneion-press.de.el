@@ -131,10 +131,10 @@ relative link in the sitemap-publish function"
 	 :html-preamble
 	 "<header id=\"banner\">
 <div class=\"wrapper\">
-  <h1><a href=\"https://gorgoneion-press.de\">GORGONEION <i>Press</i></a></h1>
+  <h1><a href=\"./index.html\">GORGONEION <i>Press</i></a></h1>
   <nav><ul>
-    <li><a href=\"https://gorgoneion-press.de/datenschutz.html\">Datenschutz</a></li>
-    <li><a href=\"https://gorgoneion-press.de/impressum.html\">Impressum</a></li>
+    <li><a href=\"./datenschutz.html\">Datenschutz</a></li>
+    <li><a href=\"./impressum.html\">Impressum</a></li>
   </ul></nav>
 </div>
 </header>"	 
@@ -183,10 +183,10 @@ relative link in the sitemap-publish function"
 	 :html-preamble
 	 "<header id=\"banner\">
 <div class=\"wrapper\">
-  <h1><a href=\"https://gorgoneion-press.de\">GORGONEION <i>Press</i></a></h1>
+  <h1><a href=\"./index.html\">GORGONEION <i>Press</i></a></h1>
   <nav><ul>
-    <li><a href=\"https://gorgoneion-press.de/datenschutz.html\">Datenschutz</a></li>
-    <li><a href=\"https://gorgoneion-press.de/impressum.html\">Impressum</a></li>
+    <li><a href=\"./datenschutz.html\">Datenschutz</a></li>
+    <li><a href=\"./impressum.html\">Impressum</a></li>
   </ul></nav>
 </div>
 </header>"	 
