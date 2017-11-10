@@ -2,9 +2,9 @@
 #+STARTUP: showall
 #+TITLE: Der Verlag für antike Fantasy und alternative Mythologie
 
-# #+CAPTION: 
-# #+ATTR_HTML: :alt Emblem der GORGONEION Presscat/spider image :title Emblem GORGONEION Press :display block :width 50% :height auto :margin auto
-# [[file:./img/emblem-gorgoneion-press.jpg]]
+#+CAPTION: 
+#+ATTR_HTML: :alt Emblem der GORGONEION Presscat/spider image :title Emblem GORGONEION Press :display block :width 50% :height auto :margin auto
+[[file:./img/emblem-gorgoneion-press.jpg]]
 
 ** Aktuelle Veröffentlichung
 
