@@ -2,9 +2,9 @@
 #+STARTUP: showall
 #+TITLE: Der Verlag für antike Fantasy und alternative Mythologie
 
-#+CAPTION: 
-#+ATTR_HTML: :alt Emblem der GORGONEION Presscat/spider image :title Emblem GORGONEION Press :display block :width 50% :height auto :margin auto
-[[file:./img/emblem-gorgoneion-press.jpg]]
+# #+CAPTION: 
+# #+ATTR_HTML: :alt Emblem der GORGONEION Presscat/spider image :title Emblem GORGONEION Press :display block :width 50% :height auto :margin auto
+# [[file:./img/emblem-gorgoneion-press.jpg]]
 
 ** Aktuelle Veröffentlichung
 
@@ -17,14 +17,15 @@
 
 *ZEIT, DEN ULTIMATIVEN KRIEG ZU ENTFESSELN!*
 
-#+BEGIN_VERSE
-Rach' und Macht sind schon
-zwei süß vergiftet Speise
-und wer sie einmal hat gekostet,
-kommt nicht mehr davon los,
-als bis er selbst gefressen wird.
-  *-- URANUS, Gatte der Gaia*
-#+END_VERSE
+#+BEGIN_QUOTE
+Rach' und Macht sind schon \\
+zwei süß vergiftet Speise \\
+und wer sie einmal hat gekostet, \\
+kommt nicht mehr davon los, \\
+als bis er selbst gefressen wird. \\
+  *-- URANUS \\
+      Gatte der Gaia*
+#+END_QUOTE
 
 Athene, Aphrodite und Perdix begeben sich auf die Suche nach Bestien-Ikas, nicht ahnend, dass dieser sich in den Fängen des wahnsinnigen Königs Pygmalion befindet. Gaia erklärt ihrem Sohn Kronos den Krieg. Fortan lebt sie gefährlich, da Kronos seine Häscher nach ihr ausschickt. Kronos setzt alles daran, den Aufenthaltsort des Bestien-Ikas zu ermitteln. Als er ihn gefunden zu haben glaubt, entfesselt er eine Macht, die alles zu vernichten droht. Und noch weitere Wesen treiben ihr krummes Spiel, ohne das zu sein, was sie vorzugeben versuchen ...
 
@@ -32,9 +33,7 @@ Athene, Aphrodite und Perdix begeben sich auf die Suche nach Bestien-Ikas, nicht
 *eBook:* [[https://www.amazon.de/dp/B01NBI5JMD/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1481308717&sr=1-1&linkCode=ll1&tag=mythenhacker-21&linkId=b6be83c7ebe06b12babf171ad135ed77][Amazon]] · [[http://www.buecher.de/shop/maerchen--sagen/titaneion-titanenschlacht-episoda-2-kolossansturm-ebook-epub/brinkmann-bastian/products_products/detail/prod_id/47209657/][bücher.de]] · [[http://www.ebook.de/de/product/28204554/bastian_brinkmann_titaneion_titanenschlacht_episoda_2_kolossansturm.html][eBook.de]] · [[https://play.google.com/store/books/details/Bastian_Brinkmann_Titaneion_Titanenschlacht_Episod?id=Tc2xDQAAQBAJ][Google Play]] · [[https://itunes.apple.com/de/book/titaneion-titanenschlacht/id1185219639?mt=11][iBooks Store]] · [[https://www.kobo.com/de/de/ebook/titaneion-titanenschlacht-episoda-2-kolossansturm][Kobo]] · [[http://www.thalia.de/shop/home/mehrvonartikel/titaneion_titanenschlacht_episoda_2_kolossansturm/bastian_brinkmann/EAN9783738095432/ID49288041.html?jumpId=18199024][Thalia.de]] · [[https://www.weltbild.de/artikel/ebook/titaneion-titanenschlacht-titaneion-titanenschlacht-episoda_22438402-1][Weltbild]] \\
 *Paperback:* [[https://www.amazon.de/dp/3946208150/ref=as_li_ss_tl?ie=UTF8&qid=1481742307&sr=8-4&keywords=titaneion&linkCode=ll1&tag=mythenhacker-21&linkId=5d7f8daeb607e53e29fd3d162a361968][Amazon]] · [[http://www.bod.de/buch/bastian-brinkmann/titaneion-titanenschlacht---episoda-2--kolossansturm/9783946208150.html][BoD]] · [[http://www.buecher.de/shop/buecher/titaneion-titanenschlacht-episoda-2-kolossansturm/brinkmann-bastian/products_products/detail/prod_id/47224918/][bücher.de]] · [[http://www.ebook.de/de/product/28215836/bastian_brinkmann_titaneion_titanenschlacht_episoda_2_kolossansturm.html][eBook.de]] · [[http://www.thalia.de/shop/home/mehrvonartikel/titaneion_titanenschlacht_episoda_2_kolossansturm/bastian_brinkmann/EAN9783946208150/ID50333173.html?jumpId=18201084][Thalia.de]] \\
 *Hardcover:* [[https://www.amazon.de/dp/3946208169/ref=as_li_ss_tl?ie=UTF8&qid=1481742307&sr=8-3&keywords=titaneion&linkCode=ll1&tag=mythenhacker-21&linkId=36e886deb1c971d0bf0d93d201e1141b][Amazon]] · [[http://www.bod.de/buch/bastian-brinkmann/titaneion-titanenschlacht---episoda-2--kolossansturm/9783946208167.html][BoD]] · [[http://www.buecher.de/shop/buecher/titaneion-titanenschlacht-episoda-2-kolossansturm/brinkmann-bastian/products_products/detail/prod_id/47221778/][bücher.de]] · [[http://www.ebook.de/de/product/28218594/bastian_brinkmann_titaneion_titanenschlacht_episoda_2_kolossansturm.html?searchId=789295630&originalSearchString=][eBook.de]] · [[http://www.thalia.de/shop/home/mehrvonartikel/titaneion_titanenschlacht_episoda_2_kolossansturm/bastian_brinkmann/EAN9783946208167/ID50333174.html?jumpId=18201865][Thalia.de]]
-	
-#+BEGIN_QUOTE
-/Antikes Versepos/ \\
-/296 Seiten/ \\
-/Erschienen: 06.12.2016/
-#+END_QUOTE
+
+Antikes Versepos \\
+296 Seiten \\
+Erschienen: 06.12.2016
