@@ -2,3 +2,5 @@
 #+TITLE: Die Quelle des Lyäus
 
 Die *Quelle des Lyäus* ist eine Schenke in [[file:athen.org][Athen]].
+
+Der Name geht  zurück auf den Beinamen "[[file:lyaeus.org][Lyäus]]" (der Sorgenlöser) des Gottes [[file:dionysos.org][Dionysos]].

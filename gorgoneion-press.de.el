@@ -160,8 +160,8 @@ relative link in the sitemap-publish function"
 	 :auto-preamble t
 	 ;; sitemap - list of blog articles
          :auto-sitemap t
-	 :sitemap-title "GORGONEION <i>Press</i> - Der Verlag für antike Fantasy und alternative Mythologie."
-	 :sitemap-filename "index.org"
+	 :sitemap-title "Neuigkeiten"
+	 :sitemap-filename "neues.org"
          ;; custom sitemap generator function
          :sitemap-function my-blog-sitemap
          :sitemap-sort-files anti-chronologically

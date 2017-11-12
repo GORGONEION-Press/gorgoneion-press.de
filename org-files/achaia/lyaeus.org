@@ -1,0 +1,8 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Lyäus
+#+DATE: <2017-11-12 So>
+#+STARTUP: showall
+
+*Lyäus* (der Sorgenlöser) ist ein Beiname des Gottes [[file:dionysos.org][Dionysos]].
+
+Er ist Namensgeber der [[file:quelle-des-lyaeus.org][gleichnamigen Schenke]] in [[file:athen.org][Athen]].
