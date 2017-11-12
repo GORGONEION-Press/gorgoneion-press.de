@@ -54,6 +54,9 @@
 		  ;; (date (org-publish-find-date file))
 		  ;; (date (plist-get env :date))
                   ;; get the preview section from the current file
+		  ;;
+		  ;; No preview
+		  ;;
                   (preview (my-blog-get-preview file))
                   (regexp "\\(.*\\)\\[\\([^][]+\\)\\]\\(.*\\)"))
               ;; insert a horizontal line before every post, kill the first one
@@ -77,8 +80,15 @@
               ;; insert the date, preview, & read more link
               ;; (insert (concat date "\n\n"))
 	      (insert (concat "#+HTML: <div class=\"post-date\">\nVeröffentlicht: " date "\n#+HTML: </div>\n\n"))
+	      ;;
+	      ;; No preview
+	      ;;
               (insert preview)
-              (insert (concat "[[file:" link "][Weiterlesen...]]\n"))))))
+	      ;;
+	      ;; No further reading
+	      ;;
+              ;;(insert (concat "[[file:" link "][Weiterlesen...]]\n"))
+	      ))))
       ;; kill the first hrule to make this look OK
       (goto-char (point-min))
       (let ((kill-whole-line t)) (kill-line))
@@ -160,7 +170,7 @@ relative link in the sitemap-publish function"
 	 :auto-preamble t
 	 ;; sitemap - list of blog articles
          :auto-sitemap t
-	 :sitemap-title "Neuigkeiten"
+	 :sitemap-title "Neues"
 	 :sitemap-filename "neues.org"
          ;; custom sitemap generator function
          :sitemap-function my-blog-sitemap

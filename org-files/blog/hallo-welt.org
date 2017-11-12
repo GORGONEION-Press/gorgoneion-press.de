@@ -1,12 +1,14 @@
 #+SETUPFILE: ../../org-templates/level-1.org
-#+TITLE: Hallo Welt!!
+#+TITLE: Index Achaia hinzugefügt
 #+STARTUP: showall
-#+DATE: <2017-11-09 Do>
+#+DATE: <2017-11-12 Mo>
 
 #+BEGIN_PREVIEW
-Hallo archaische Welt!!
+Auf der Seite [[file:achaia.org][https://gorgoneion-press.de/achaia.html]] finden Sie den *Index Achaia*: Hier finden Sie sämtliche Hintergrundinformationen zur griechisch-mythologischen Alternativ-Welt [[file:./achaia/achaia.org][Achaia]], in der sämtliche Werke der GORGONEION /Press/ spielen.
+
+Es gilt *höchste Spoilergefahr!!!*
+
+Viel Spaß damit!
+
+[[file./achaia.org][Zum Index Achaia]]
 #+END_PREVIEW
-
-** Hallo Welt!!
-
-Hallo archaische Welt!!
