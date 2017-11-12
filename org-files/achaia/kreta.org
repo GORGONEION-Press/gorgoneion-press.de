@@ -1,0 +1,5 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Kreta
+
+*Kreta* ist die größte griechische Insel und bildet die südliche Grenze
+der [[file:aegaeisches-meer.org][Ägäis]].

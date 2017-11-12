@@ -1,0 +1,5 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Kriegergriff
+
+Der *Kriegergriff* ist ein Gruß, bei dem statt der Hand der Unterarm des
+Gegenübers ergriffen wird.

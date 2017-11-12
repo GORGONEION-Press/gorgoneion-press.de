@@ -1,0 +1,5 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Rhadamanthys
+
+*Rhadamanthys* ist einer der drei [[file:richter-der-toten.org][Richter der
+Toten]].

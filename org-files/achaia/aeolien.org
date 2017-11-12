@@ -1,0 +1,5 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Äolien
+
+*Äolien* ist eine Landschaft im Nordwesten
+[[file:kleinasien.org][Kleinasiens]].

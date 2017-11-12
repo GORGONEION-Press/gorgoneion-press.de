@@ -1,0 +1,5 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Pandrinos
+
+*Pandrinos* ist der Hauptmann des thrakischen Heerführers
+[[file:ikas.org][Ikas]].

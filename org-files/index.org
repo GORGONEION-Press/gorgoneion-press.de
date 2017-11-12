@@ -3,7 +3,7 @@
 #+TITLE: Der Verlag für antike Fantasy und alternative Mythologie
 
 #+CAPTION: 
-#+ATTR_HTML: :alt Emblem der GORGONEION Presscat/spider image :title Emblem GORGONEION Press :display block :width 50% :height auto :margin auto
+#+ATTR_HTML: :alt Emblem der GORGONEION Press :title Emblem GORGONEION Press :display block :width 50% :height auto :margin auto
 [[file:./img/emblem-gorgoneion-press.jpg]]
 
 ** Aktuelle Veröffentlichung
@@ -161,3 +161,14 @@ Ausgezeichnet mit dem [[./http://www.marburg-con.de/][Marburg Award]].
 Kurzepos \\
 ca. 24 Seiten \\
 Erschienen: 17.05.2015
+
+-----
+
+** Die Welt Achaia
+
+#+CAPTION: 
+#+ATTR_HTML: :alt Karte der Welt Achaia :title Die Welt Achaia :width 100%
+[[file:./img/achaia.jpg]]
+
+
+Schauplatz aller Werke ist die griechisch-mythologische Alternativ-Welt Achaia. Sämtliche Hintergrundinformationen zur Welt Achaia finden Sie im [[file:achaia.org][Index Achaia]].
