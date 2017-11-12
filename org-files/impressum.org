@@ -8,7 +8,7 @@
    :END:
 GORGONEION /Press/
 
-Bastian Brinkmann (bitte bei Schriftverkehr stets mit angeben)
+Bastian Brinkmann
 
 Martin-Luther-Straße 32
 
@@ -24,9 +24,7 @@ E-Mail: [[mailto:kontakt@gorgoneion-press.de][kontakt@gorgoneion-press.de]]
    :CUSTOM_ID: verantwortlich-für-den-inhalt-nach-55-abs.-2-rstv
    :END:
 
-GORGONEION /Press/
-
-Bastian Brinkmann (bitte bei Schriftverkehr stets mit angeben)
+Bastian Brinkmann
 
 Martin-Luther-Straße 32
 
