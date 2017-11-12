@@ -3,4 +3,4 @@
 
 *Seite nicht gefunden, Sterblicher :(*
 
-Die angeforderte Seite muss wohl erst noch von [[file:hephaistos.org][Hephaistos]] geschmiedet werden.
+Die angeforderte Seite muss wohl erst noch von [[file:./achaia/hephaistos.org][Hephaistos]] geschmiedet werden.

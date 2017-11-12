@@ -1,6 +1,7 @@
 #+SETUPFILE: ../../org-templates/level-1.org
 #+TITLE: Arachneion-Pallashass
 #+OPTIONS: toc:1
+#+STARTUP showall
 
 ** Personae
    :PROPERTIES:
@@ -1938,7 +1939,7 @@ Tainaron]] · [[file:kokytos.org][Kokytos]] · [[file:kolophon.org][Kolophon]] �
 [[file:lebensfaden.org][Lebensfaden]] · [[file:leviathan.org][Leviathan]] ·
 [[file:moiren.org][Moiren]] · [[file:moirenblut.org][Moirenblut]] ·
 [[file:mysterien.org][Mysterien]] · [[file:okeaniden.org][Okeaniden]] ·
-[[file:pallas.org][Pallas]] · [[file:runkse.org][Runkse]] · [[file:schiff-weberei.org][Schiff
+[[file:pallas.org][Pallas]] · [[file:runks.org][Runkse]] · [[file:schiff-weberei.org][Schiff
 (Weberei)]] · [[file:schuetze-weberei.org][Schütze (Weberei)]] ·
 [[file:schwarzer-koenig.org][Schwarzer König]] · [[file:zerberus.org][Zerberus]]
 
