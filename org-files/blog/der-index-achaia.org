@@ -10,5 +10,5 @@ Es gilt *höchste Spoilergefahr!!!*
 
 Viel Spaß damit!
 
-[[file:achaia.org][Zum Index Achaia]]
+[[[file:achaia.org][Zum Index Achaia]]]
 #+END_PREVIEW
