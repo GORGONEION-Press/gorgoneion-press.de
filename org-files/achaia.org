@@ -53,7 +53,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt
 
 ** L
 
-[[file:./achaia/labyrinth-des-minotaurus.org][Labyrinth des Minotaurus]] · [[file:./achaia/lachesis.org][Lachesis]] · [[file:./achaia/lebensfaden.org][Lebensfaden]] · [[file:./achaia/legendaere-artefakte.org][Legendäre Artefakte]] · [[file:./achaia/lethe.org][Lethe]] · [[file:./achaia/leto.org][Leto]] · [[file:./achaia/leviathan.org][Leviathan]] · [[file:./achaia/lydien.org][Lydien]]
+[[file:./achaia/labyrinth-des-minotaurus.org][Labyrinth des Minotaurus]] · [[file:./achaia/lachesis.org][Lachesis]] · [[file:./achaia/lebensfaden.org][Lebensfaden]] · [[file:./achaia/legendaere-artefakte.org][Legendäre Artefakte]] · [[file:./achaia/lethe.org][Lethe]] · [[file:./achaia/leto.org][Leto]] · [[file:./achaia/leviathan.org][Leviathan]] · [[file:./achaia/lyaeus.org][Lyäus]] · [[file:./achaia/lydien.org][Lydien]]
 
 ** M
 
