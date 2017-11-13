@@ -145,6 +145,7 @@ relative link in the sitemap-publish function"
   <nav><ul>
     <li><a href=\"./datenschutz.html\">Datenschutz</a></li>
     <li><a href=\"./impressum.html\">Impressum</a></li>
+    <li><a href=\"./achaia.html\">Achaia</a></li>
     <li><a href=\"./neues.html\">Neues</a></li>
   </ul></nav>
 </div>
@@ -198,6 +199,7 @@ relative link in the sitemap-publish function"
   <nav><ul>
     <li><a href=\"./datenschutz.html\">Datenschutz</a></li>
     <li><a href=\"./impressum.html\">Impressum</a></li>
+    <li><a href=\"./achaia.html\">Achaia</a></li>
     <li><a href=\"./neues.html\">Neues</a></li>
   </ul></nav>
 </div>
@@ -238,6 +240,7 @@ relative link in the sitemap-publish function"
   <nav><ul>
     <li><a href=\"../datenschutz.html\">Datenschutz</a></li>
     <li><a href=\"../impressum.html\">Impressum</a></li>
+    <li><a href=\"../achaia.html\">Achaia</a></a></li>
     <li><a href=\"../neues.html\">Neues</a></li>
   </ul></nav>
 </div>
