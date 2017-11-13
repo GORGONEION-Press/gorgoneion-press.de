@@ -12,8 +12,7 @@
 
 #+CAPTION: 
 #+ATTR_HTML: :alt Cover Titaneion 2 Kolossansturm :style float: right;
-[[file:./img/cover-titaneion-2.jpg]]
-
+[[file:./img/buch-titaneion-2_350x490.jpg]]
 
 *ZEIT, DEN ULTIMATIVEN KRIEG ZU ENTFESSELN!*
 
@@ -45,7 +44,7 @@ Erschienen: 06.12.2016
 *** TITANEION - Titanenschlacht Episoda 1: Bestienborn
 
 #+ATTR_HTML: :alt Cover Titaneion 1 Bestienborn :style float: right;
-[[file:./img/cover-titaneion-1.jpg]]
+[[file:./img/buch-titaneion-1_350x490.jpg]]
 
 *ZEIT, DEN ULTIMATIVEN KRIEG ZU ENTFESSELN!*
 
@@ -78,8 +77,8 @@ Erschienen: 12.06.2016
 *** ARACHNEION - Pallashass
 
 #+ATTR_HTML: :alt cover-arachneion.jpg :style float: right;
-[[file:./img/cover-arachneion.jpg]]
- 
+[[file:./img/buch-arachneion_350x490.jpg]]
+
 *DER ARACHNE-MYTHOS IN EPISCHER NEUERZÄHLUNG.*
 
 #+BEGIN_QUOTE
