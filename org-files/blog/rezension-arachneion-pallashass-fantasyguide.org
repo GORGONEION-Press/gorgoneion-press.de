@@ -1,0 +1,8 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Rezension zu Arachneion-Pallashass auf Fantasyguide.de
+#+STARTUP: showall
+#+DATE: <2016-05-04 Mi>
+
+#+BEGIN_PREVIEW
+Ralf Steinberg vom [[http://fantasyguide.de/][Fantasyguide]] hat eine Rezension zu Arachneion-Pallashass verfasst: [[http://fantasyguide.de/arachneion-pallashass-autor-bastian-brinkmann.html][Zur Rezension]].
+#+END_PREVIEW

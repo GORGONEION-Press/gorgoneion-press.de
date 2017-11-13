@@ -1,0 +1,8 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Interview auf Fantasyguide.de
+#+STARTUP: showall
+#+DATE: <2016-05-12 Do>
+
+#+BEGIN_PREVIEW
+Neues Interview auf Fantasyguide: [[http://fantasyguide.de/interview-bastian-brinkmann.html][Zum Interview]].
+#+END_PREVIEW

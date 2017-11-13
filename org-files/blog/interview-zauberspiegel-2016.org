@@ -1,0 +1,8 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Interview im Zauberspiegel
+#+STARTUP: showall
+#+DATE: <2016-07-10 So>
+
+#+BEGIN_PREVIEW
+Horst Hermann von Allwörden hatte einige Fragen übers (Selbst-)verlegen, Bücherbauen und Schreiben: [[http://www.zauberspiegel-online.de/index.php/frage-antwort/im-gesprch-mit-mainmenu-179/28916-bastian-brinkmann-ueber-selbst-verlegen-buecherbauen-und-schreiben][Zum Interview]].
+#+END_PREVIEW

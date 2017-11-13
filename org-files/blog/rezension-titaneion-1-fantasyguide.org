@@ -1,0 +1,8 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Rezension zu Titaneion-Titanenschlacht Episoda 1: Bestienborn
+#+STARTUP: showall
+#+DATE: <2016-10-11 Di>
+
+#+BEGIN_PREVIEW
+Ralf Steinberg vom [[http://fantasyguide.de/][Fantasyguide]] hat eine Rezension zu Titaneion-Titanenschlacht Episoda 1: Bestienborn verfasst: [[http://fantasyguide.de/bestienborn-autor-bastian-brinkmann-titaneion-titanenschlacht-1.html][Zur Rezension]].
+#+END_PREVIEW

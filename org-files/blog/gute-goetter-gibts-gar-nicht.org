@@ -1,0 +1,8 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Gute Götter gibts gar nicht
+#+STARTUP: showall
+#+DATE: <2016-05-04 Mi>
+
+#+BEGIN_PREVIEW
+Ralf Steinberg hat auf seinem Privat-Blog noch was zu Aracheion-Pallashass geschrieben: [[https://lapismont.wordpress.com/2016/05/04/gute-goetter-gibts-gar-nicht/][Zum Artikel]].
+#+END_PREVIEW

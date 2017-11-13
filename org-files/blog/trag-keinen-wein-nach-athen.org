@@ -1,0 +1,8 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Trag keinen Wein nach Athen!
+#+STARTUP: showall
+#+DATE: <2016-10-11 Di>
+
+#+BEGIN_PREVIEW
+Auf Ralf Steinbergs privatem Blog finden sich ein paar Gedanken zu Titaneion-Titanenschlacht Episoda 1: Bestienborn: [[https://lapismont.wordpress.com/2016/10/11/trag-keinen-wein-nach-athen/][Zum Artikel]].
+#+END_PREVIEW

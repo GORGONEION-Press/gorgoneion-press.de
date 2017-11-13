@@ -1,0 +1,8 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Interview mit Judith Madera auf Literatopia
+#+STARTUP: showall
+#+DATE: <2016-04-05 Di>
+
+#+BEGIN_PREVIEW
+Judith Madera von [[http://www.literatopia.de/][Literatopia]] hatte einige Fragen: [[http://www.literatopia.de/index.php?option=com_content&view=article&id=23298][Zum Interview]].
+#+END_PREVIEW
