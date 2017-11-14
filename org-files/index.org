@@ -2,10 +2,6 @@
 #+STARTUP: showall
 #+TITLE: Der Verlag für antike Fantasy und alternative Mythologie
 
-#+CAPTION: 
-#+ATTR_HTML: :alt Emblem der GORGONEION Press :title Emblem GORGONEION Press :display block :width 50% :height auto :margin auto
-[[file:./img/emblem-gorgoneion-press.jpg]]
-
 ** Aktuelle Veröffentlichung
 
 *** TITANEION - Titanenschlacht Episoda 2: Kolossansturm
