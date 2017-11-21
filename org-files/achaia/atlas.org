@@ -1,6 +1,6 @@
 #+SETUPFILE: ../../org-templates/level-1.org
+#+STARTUP: showall
 #+TITLE: Atlas
 
-*Atlas* ist ein [[file:titanen.org][Titan]] und der Sohn des
-[[file:Iapetos.org][Iapetos]] und der [[file:okeaniden.org][Okeanide]]
-[[file:asia.org][Asia]]. Sein Beiname lautet "der Harte".
+*Atlas* ist ein [[file:titanen.org][Titan]] und der Sohn des [[file:Iapetos.org][Iapetos]] und der [[file:okeaniden.org][Okeanide]]
+[[file:asia.org][Asia]]. Sein Beiname lautet "der Harte". Er ist eine der wenigen Figuren, die von [[file:kronos.org][Kronos]] hin und wieder geduzt werden.
