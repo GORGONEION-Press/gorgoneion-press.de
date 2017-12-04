@@ -28,7 +28,7 @@
 
 -----
 
-** Jetzt neu: Die Welt Achaia
+** Die Welt Achaia
 
 #+CAPTION: 
 #+ATTR_HTML: :alt Karte der Welt Achaia :title Die Welt Achaia :width 100%

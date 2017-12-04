@@ -1,5 +1,10 @@
 #+SETUPFILE: ../../org-templates/level-1.org
 #+TITLE: Achaia
+#+STARTUP: showall
+
+#+CAPTION: 
+#+ATTR_HTML: :alt Karte der Welt Achaia :title Die Welt Achaia :width 100%
+[[file:../img/achaia.jpg]]
 
 *Achaia* ist ein im Aether schwebender Superkontinent. Achaia teilt sich
 ein in eine nach oben durch den Himmel begrenzte Oberwelt und eine nur
@@ -10,9 +15,6 @@ Aether über. Zahlreiche Inseln liegen auf dem Okeanos und sind ebenfalls
 Teil Achaias.
 
 ** Der Begriff Achaia
-   :PROPERTIES:
-   :CUSTOM_ID: der-begriff-achaia
-   :END:
 
 Achaia bezeichnet eigentlich eine Landschaft im Nordwesten der
 Peloponnes, im homerischen Sinne aber die gegen Troja kämpfenden
@@ -21,31 +23,14 @@ gesamte Welt, in der Gorgoneion-Eine Tragodia, Ikareion-Taurusflucht und
 alle weiteren Werke spielen.
 
 ** Schöpfungsmythos
-   :PROPERTIES:
-   :CUSTOM_ID: schöpfungsmythos
-   :END:
-
 *** Das Zeitalter Kaos: Die Zeit der Ersten Unordnung
-    :PROPERTIES:
-    :CUSTOM_ID: das-zeitalter-kaos-die-zeit-der-ersten-unordnung
-    :END:
-
 **** Die Protogenoi: Das Prinzip Erebos -- Finsternis
-     :PROPERTIES:
-     :CUSTOM_ID: die-protogenoi-das-prinzip-erebos-finsternis
-     :END:
-
 Am Anfang herrschten Kaos und Finsternis. Aus dem Kaos erwuchs der
 Aether und im Aether entstanden Erde und Himmel. Aus der Erde erwuchs
 Gaia und im Himmel erwuchs Uranus, und beide lebten stets getrennt
 voneinander, und keiner wusste von dem anderen.
 
-**** Geburt der Titanen und Götter: Das Prinzip Eros -- Triebhafte Liebe
-und Verlangen
-     :PROPERTIES:
-     :CUSTOM_ID: geburt-der-titanen-und-götter-das-prinzip-eros-triebhafte-liebe-und-verlangen
-     :END:
-
+**** Geburt der Titanen und Götter: Das Prinzip Eros -- Triebhafte Liebe und Verlangen
 Doch eines Tages blickte Gaia zum Himmel hinauf und fragte sich: „Was
 ist dort über mir?“ Die Unterwelt kannte sie bereits, war sie doch der
 gleichen Erde erwachsen wie Gaia selbst. Und im selben Moment blickte
@@ -56,12 +41,7 @@ Uranus seine Kinder: Die Uraniden (Titanen). Doch auch den Uraniden war
 das leibliche Verlangen nicht fremd und so schufen sie das
 Göttergeschlecht der Kroniden.
 
-**** Prometheus erschafft Tiere und Menschen: Das Prinzip Thanatos --
-Der sanfte Tod
-     :PROPERTIES:
-     :CUSTOM_ID: prometheus-erschafft-tiere-und-menschen-das-prinzip-thanatos-der-sanfte-tod
-     :END:
-
+**** Prometheus erschafft Tiere und Menschen: Das Prinzip Thanatos -- Der sanfte Tod
 Prometheus -- der erste Titan, der kein Uranide und somit ein
 Ausgestoßener war -- fühlte sich allein und begab sich zur Erde hinab.
 Zum Zeitvertreib formte er aus Lehm Tiere und hauchte ihnen durch Gaia
@@ -72,12 +52,7 @@ einhauchen, da das Erschaffen höherer Wesen die Macht der Gaia
 überstiegen hätte. Mit Tier und Mensch betraten die ersten Wesen Achaia,
 die nicht unsterblich waren.
 
-**** Errichtung der Himmelsfestung und Thronbesteigung des Uranus: Das
-Prinzip Hieros -- Hierarchie
-     :PROPERTIES:
-     :CUSTOM_ID: errichtung-der-himmelsfestung-und-thronbesteigung-des-uranus-das-prinzip-hieros-hierarchie
-     :END:
-
+**** Errichtung der Himmelsfestung und Thronbesteigung des Uranus: Das Prinzip Hieros -- Hierarchie
 Uranus jedoch kehrte in seinen Himmel zurück, um die Titanen von oben
 herab zu regieren. Mit seinen eigenen Händen erbaute er eine eherne
 Feste mit ehernem Thron, von dem alle Macht ausgehen sollte, bestieg
@@ -85,16 +60,7 @@ diesen als unangefochtener Herrscher über Titanen, Götter und Menschen
 und läutete ein neues Zeitalter ein.
 
 *** Das Zeitalter Uranos: Die Zeit der Ersten Ordnung
-    :PROPERTIES:
-    :CUSTOM_ID: das-zeitalter-uranos-die-zeit-der-ersten-ordnung
-    :END:
-
-**** Uranus weist Titanen und Göttern ihre Macht zu: Das Prinzip Kratos
--- Macht und Machthierarchie
-     :PROPERTIES:
-     :CUSTOM_ID: uranus-weist-titanen-und-göttern-ihre-macht-zu-das-prinzip-kratos-macht-und-machthierarchie
-     :END:
-
+**** Uranus weist Titanen und Göttern ihre Macht zu: Das Prinzip Kratos -- Macht und Machthierarchie
 Seit der Thronbesteigung des Uranus geht alle Macht der Welt Achaias vom
 Himmel aus. Uranus wies daraufhin Titanen und Götter an, sich vor ihm --
 von jung nach alt -- aufzustellen, um jedem seinen Platz im Machtgefüge
@@ -117,13 +83,7 @@ Uranus losgehen, die Götter stellten sich ihnen jedoch in den Weg.
 Kronos als der Anführer des Aufruhrs wurde daraufhin von Uranus
 verstoßen.
 
-**** Götter und Titanen im ständigen Zwist: Die Prinzipien des Kampfes
-und der Intrige (Machia), der Schrecken und der Gräuel (Terror) und des
-gewaltsamen Todes (Ker)
-     :PROPERTIES:
-     :CUSTOM_ID: götter-und-titanen-im-ständigen-zwist-die-prinzipien-des-kampfes-und-der-intrige-machia-der-schrecken-und-der-gräuel-terror-und-des-gewaltsamen-todes-ker
-     :END:
-
+**** Götter und Titanen im ständigen Zwist: Die Prinzipien des Kampfes und der Intrige (Machia), der Schrecken und der Gräuel (Terror) und des gewaltsamen Todes (Ker)
 Titanen und Götter hatten fürderhin nichts Besseres zu tun, als sich
 gegenseitig auf und unterhalb der Welt Achaia das Leben schwer zu
 machen. Unter ihren Kämpfen bebte die Erde, es kam zu schweren Unwettern
@@ -143,12 +103,7 @@ zarte Bande zwischen Menschen und Göttern bahnten sich an. Die Titanen
 zogen sich derweil zurück und tauchten nur selten auf der Bildfläche
 auf.
 
-**** Geburt der Aphrodite: Prinzip der Freude, Lust und sinnlichen
-Begierde (Hedone)
-     :PROPERTIES:
-     :CUSTOM_ID: geburt-der-aphrodite-prinzip-der-freude-lust-und-sinnlichen-begierde-hedone
-     :END:
-
+**** Geburt der Aphrodite: Prinzip der Freude, Lust und sinnlichen Begierde (Hedone)
 Nur Uranus unterließ seine Nachstellungen der Gaia nicht und wohnte ihr
 in regelmäßgen Abständen bei. Mehr und mehr entwickelte sich der Wunsch
 nach Rache oder vielmehr Erlösung von ihrem unwürdigem Joch. Als Gaia
@@ -166,12 +121,7 @@ Achaia begann. Die Göttin Aphrodite entstieg dem fortgeworfenen Gemächt
 des Uranus, wodurch das letzte Prinzip -- das Prinzip der Lust und
 sinnlichen Begierde -- in die Welt kam.
 
-**** Mythos ErebosKerThanatos: Der Achäische Kreis und der Untergang
-Achaias
-     :PROPERTIES:
-     :CUSTOM_ID: mythos-ereboskerthanatos-der-achäische-kreis-und-der-untergang-achaias
-     :END:
-
+**** Mythos ErebosKerThanatos: Der Achäische Kreis und der Untergang Achaias
 In der Welt Achaia existieren Mächte und Fraktionen, die fest davon
 überzeugt sind, dass alles einem genau festgelegtem Kreislauf entspringt
 und dass nach dem Prinzip Hedone wieder das Prinzip Erebos folgen wird.
@@ -183,15 +133,7 @@ den Zustand Ker -- gewaltsamer Tod -- möglichst schnell herbeizuführen
 und hinter sich zu bringen.
 
 ** Übersichten
-   :PROPERTIES:
-   :CUSTOM_ID: übersichten
-   :END:
-
 *** Die drei Zeitalter
-    :PROPERTIES:
-    :CUSTOM_ID: die-drei-zeitalter
-    :END:
-
 -  Zeitalter Olympos: Zweite Zeit der Ordnung/Zeit der Zweiten
    Ordnung/Zeit der Neuordnung
 -  Zeitalter Uranos: Erste Zeit Ordnung/Zeit der Ersten Ordnung
@@ -200,10 +142,6 @@ und hinter sich zu bringen.
    Zweiten Unordnung
 
 *** Die Neun Prinzipien
-    :PROPERTIES:
-    :CUSTOM_ID: die-neun-prinzipien
-    :END:
-
 -  Prinzip der Finsternis (Erebos)
 -  Prinzip der triebhaften Liebe und des Verlangens (Eros)
 -  Prinzip der Hierarchie (Hieros)
@@ -215,10 +153,6 @@ und hinter sich zu bringen.
 -  Prinzip der Freude, Lust und sinnlichen Begierde (Hedone)
 
 *** Der Achäische Kreis
-    :PROPERTIES:
-    :CUSTOM_ID: der-achäische-kreis
-    :END:
-
 -  Erebos > Eros > Hieros > Kratos > Thanatos > Machia > Terror > Ker >
    Hedone > Erebos
 -  Finsternis > Liebestrieb > Hierarchie > Macht > Sanfter Tod > Kampf
@@ -226,10 +160,6 @@ und hinter sich zu bringen.
    Finsternis
 
 *** Auslösende universale Ereignisse
-    :PROPERTIES:
-    :CUSTOM_ID: auslösende-universale-ereignisse
-    :END:
-
 -  Zeitalter Kaos: Zu Beginn herrschen Kaos und Finsternis
 -  Schaffung der Himmelsfestung des Uranus und Besteigung des
    Himmelsthrons läuten das Zeitalter Uranos ein
@@ -237,10 +167,6 @@ und hinter sich zu bringen.
    Zeitalter Olympos aus
 
 *** Chronologie der bisherigen Mythen
-    :PROPERTIES:
-    :CUSTOM_ID: chronologie-der-bisherigen-mythen
-    :END:
-
 -  Ikareion-Taurusflucht
 -  Titaneion-Titanenschlacht
 -  Gorgoneion-Eine Tragodia

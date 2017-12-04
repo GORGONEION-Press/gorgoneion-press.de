@@ -1,0 +1,39 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Willkommen im GORGONEION Press Wiki, Sterblicher!
+#+STARTUP: showall
+
+Hier findest du alle Informationen zur *Welt Achaia* und allen Werken, die in, auf und unter ihr spielen.
+
+[[file:achaia.org][Vollständiger Index aller Seiten]]
+
+-----
+
+** Die Welt
+
+#+CAPTION: 
+#+ATTR_HTML: :alt Karte der Welt Achaia :title Die Welt Achaia :width 100%
+[[file:./img/achaia.jpg]]
+
+*Achaia* ist ein im [[file:./achaia/aether.org][Aether]] schwebender Superkontinent. Achaia teilt sich ein in eine nach oben durch den Himmel begrenzte Oberwelt und eine nur durch den Aether selbst begrenzte Unterwelt. Die äußere Grenze der Oberwelt bildet der [[file:./achaia/okeanos.org][Okeanos]], der die gesamte Welt zu allen Seiten umfließt. Der Okeanos selbst geht an seinen äußersten Grenzen in den Aether über. Zahlreiche Inseln liegen auf dem Okeanos und sind ebenfalls Teil Achaias. [[file:./achaia/achaia.org][Weiterlesen ...]]
+
+----- 
+
+** Die Werke
+
+#+INCLUDE: "../includes/titaneion-2.html" html
+
+-----
+
+#+INCLUDE: "../includes/titaneion-1.html" html
+
+-----
+
+#+INCLUDE: "../includes/arachneion-pallashass.html" html
+
+-----
+
+#+INCLUDE: "../includes/ikareion-taurusflucht.html" html
+
+-----
+
+#+INCLUDE: "../includes/gorgoneion.html" html
