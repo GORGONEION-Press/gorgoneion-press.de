@@ -39,6 +39,11 @@ blockquote {
 
 cite {
     font-style: normal;
+    font-weight: 800;
+}
+
+cite::before {
+    content: "-- ";
 }
 
 #banner a {
