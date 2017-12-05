@@ -1,4 +1,6 @@
-<p><a href="#orgheadline1" onclick="clearMyInput()">-</a> · <a href="#orgheadline2" onclick="clearMyInput()">A</a> · <a href="#orgheadline3" onclick="clearMyInput()">B</a> · <a href="#orgheadline4" onclick="clearMyInput()">C</a> · <a href="#orgheadline5" onclick="clearMyInput()">D</a> · <a href="#orgheadline6" onclick="clearMyInput()">E</a> · <a href="#orgheadline7" onclick="clearMyInput()">F</a> · <a href="#orgheadline8" onclick="clearMyInput()">G</a> · <a href="#orgheadline9" onclick="clearMyInput()">H</a> · <a href="#orgheadline10" onclick="clearMyInput()">I</a> · <a href="#orgheadline11" onclick="clearMyInput()">K</a> · <a href="#orgheadline12" onclick="clearMyInput()">L</a> · <a href="#orgheadline13" onclick="clearMyInput()">M</a> · <a href="#orgheadline14" onclick="clearMyInput()">N</a> · <a href="#orgheadline15" onclick="clearMyInput()">O</a> · <a href="#orgheadline16" onclick="clearMyInput()">P</a> · <a href="#orgheadline17" onclick="clearMyInput()">Q</a> · <a href="#orgheadline18" onclick="clearMyInput()">R</a> · <a href="#orgheadline19" onclick="clearMyInput()">S</a> · <a href="#orgheadline20" onclick="clearMyInput()">T</a> · <a href="#orgheadline21" onclick="clearMyInput()">U</a> · <a href="#orgheadline22" onclick="clearMyInput()">V</a> · <a href="#orgheadline23" onclick="clearMyInput()">W</a> · <a href="#orgheadline24" onclick="clearMyInput()">Z</a> <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Suche nach Artikeln ..."></p>
+<p><a href="#orgheadline1" onclick="clearMyInput()">-</a> · <a href="#orgheadline2" onclick="clearMyInput()">A</a> · <a href="#orgheadline3" onclick="clearMyInput()">B</a> · <a href="#orgheadline4" onclick="clearMyInput()">C</a> · <a href="#orgheadline5" onclick="clearMyInput()">D</a> · <a href="#orgheadline6" onclick="clearMyInput()">E</a> · <a href="#orgheadline7" onclick="clearMyInput()">F</a> · <a href="#orgheadline8" onclick="clearMyInput()">G</a> · <a href="#orgheadline9" onclick="clearMyInput()">H</a> · <a href="#orgheadline10" onclick="clearMyInput()">I</a> · <a href="#orgheadline11" onclick="clearMyInput()">K</a> · <a href="#orgheadline12" onclick="clearMyInput()">L</a> · <a href="#orgheadline13" onclick="clearMyInput()">M</a> · <a href="#orgheadline14" onclick="clearMyInput()">N</a> · <a href="#orgheadline15" onclick="clearMyInput()">O</a> · <a href="#orgheadline16" onclick="clearMyInput()">P</a> · <a href="#orgheadline17" onclick="clearMyInput()">Q</a> · <a href="#orgheadline18" onclick="clearMyInput()">R</a> · <a href="#orgheadline19" onclick="clearMyInput()">S</a> · <a href="#orgheadline20" onclick="clearMyInput()">T</a> · <a href="#orgheadline21" onclick="clearMyInput()">U</a> · <a href="#orgheadline22" onclick="clearMyInput()">V</a> · <a href="#orgheadline23" onclick="clearMyInput()">W</a> · <a href="#orgheadline24" onclick="clearMyInput()">Z</a></p>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Suche nach Artikeln ..." style="display: none";>
 
 <div id="articleList">
   <span class="articleLink"><h2 id="orgheadline1">-</h2></span>
@@ -123,6 +125,12 @@
 </div>
 
 <script>
+function initializeJavaScript() {
+  var input = document.getElementById('myInput');
+
+  input.style.display = "";
+}
+  
 function myFunction() {
   // Declare variables
   var input, filter, ul, li, a, i;
@@ -145,4 +153,6 @@ function clearMyInput() {
   document.getElementById('myInput').value='';
   myFunction();
 }
+
+initializeJavaScript();
 </script>
