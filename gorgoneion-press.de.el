@@ -41,8 +41,8 @@
         (let ((fn (file-name-nondirectory file))
               (link ;; changed this to fix links. see postprocessor.
                (file-relative-name file (file-name-as-directory
-                                         (expand-file-name (concat (file-name-as-directory dir) "..")))))
-              (oldlocal localdir))
+                                         (expand-file-name (concat (file-name-as-directory dir) "..")))))					
+	                    (oldlocal localdir))
           (when sitemap-sans-extension
             (setq link (file-name-sans-extension link)))
           ;; sitemap shouldn't list itself
@@ -80,15 +80,8 @@
               ;; insert the date, preview, & read more link
               ;; (insert (concat date "\n\n"))
 	      (insert (concat "#+HTML: <div class=\"post-date\">\nVeröffentlicht: " date "\n#+HTML: </div>\n\n"))
-	      ;;
-	      ;; No preview
-	      ;;
               (insert preview)
-	      ;;
-	      ;; No further reading
-	      ;;
-              ;;(insert (concat "[[file:" link "][Weiterlesen...]]\n"))
-	      ))))
+              (insert (concat "[[file:" link "][Weiterlesen...]]\n"))))))
       ;; kill the first hrule to make this look OK
       (goto-char (point-min))
       (let ((kill-whole-line t)) (kill-line))
@@ -173,7 +166,7 @@ relative link in the sitemap-publish function"
 	 :auto-preamble t
 	 ;; sitemap - list of blog articles
          :auto-sitemap t
-	 :sitemap-title "Neues"
+	 :sitemap-title "Neuigkeiten"
 	 :sitemap-filename "neues.org"
          ;; custom sitemap generator function
          :sitemap-function my-blog-sitemap
