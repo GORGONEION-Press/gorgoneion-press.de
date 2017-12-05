@@ -1,6 +1,8 @@
 #+SETUPFILE: ../org-templates/level-0.org
-#+TITLE: Willkommen im GORGONEION Press Wiki, Sterblicher!
+#+TITLE: GORGONEION Press Wiki
 #+STARTUP: showall
+
+** Willkommen im *GORGONEION /Press/* Wiki, Sterblicher!
 
 Hier findest du alle Informationen zur *Welt Achaia* und allen Werken, die in, auf und unter ihr spielen.
 
@@ -19,9 +21,32 @@ Hier findest du alle Informationen zur *Welt Achaia* und allen Werken, die in, a
 ----- 
 
 ** Die Werke
+*** TITANEION - Titanenschlacht Episoda 2: Kolossansturm
+#+CAPTION: 
+#+ATTR_HTML: :alt Cover Titaneion 2 Kolossansturm :style float: right;
+[[file:./img/buch-titaneion-2_350x490.jpg]]
 
-#+INCLUDE: "../includes/titaneion-2.html" html
+*ZEIT, DEN ULTIMATIVEN KRIEG ZU ENTFESSELN!*
 
+#+BEGIN_QUOTE
+Rach' und Macht sind schon\\
+zwei süß vergiftet Speise\\
+und wer sie einmal hat gekostet,\\
+kommt nicht mehr davon los,\\
+als bis er selbst gefressen wird.\\
+*-- URANUS\\*
+*Gatte der Gaia*
+#+END_QUOTE
+
+[[file:./achaia/athene.org][Athene]], [[file:./achaia/aphrodite.org][Aphrodite]] und [[file:./achaia/perdix.org][Perdix]] begeben sich auf die Suche nach [[file:./achaia/bestien-ikas.org][Bestien-Ikas]], nicht ahnend, dass dieser sich in den Fängen des wahnsinnigen Königs [[file:./achaia/pygmalion.org][Pygmalion]] befindet. [[file:./achaia/gaia.org][Gaia]] erklärt ihrem Sohn [[file:,/achaia/kronos.org][Kronos]] den Krieg. Fortan lebt sie gefährlich, da Kronos seine Häscher nach ihr ausschickt. Kronos setzt alles daran, den Aufenthaltsort des Bestien-Ikas zu ermitteln. Als er ihn gefunden zu haben glaubt, entfesselt er eine Macht, die alles zu vernichten droht. Und noch weitere Wesen treiben ihr krummes Spiel, ohne das zu sein, was sie vorzugeben versuchen ...
+
+#+INCLUDE: "../includes/titaneion-2-links.html" html
+
+Antikes Versepos\\
+296 Seiten\\
+Erschienen: 06.12.2016\\
+
++ [[file:./achaia/titaneion-2.org][Zur Wiki-Seite]]
 -----
 
 #+INCLUDE: "../includes/titaneion-1.html" html

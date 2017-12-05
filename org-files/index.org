@@ -4,7 +4,9 @@
 
 ** Aktuelle Veröffentlichung
 
-#+INCLUDE: "../includes/titaneion-2.html" html
+#+INCLUDE: "../includes/titaneion-2-description.html" html
+#+INCLUDE: "../includes/titaneion-2-links.html" html
+#+INCLUDE: "../includes/titaneion-2-info.html" html
 
 -----
 
