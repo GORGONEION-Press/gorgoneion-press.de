@@ -140,7 +140,7 @@ relative link in the sitemap-publish function"
     <li><a href=\"../impressum.html\">Impressum</a></li>
     <li><a href=\"../achaia.html\">Index</a></li>
     <li><a href=\"../wiki.html\">Wiki</a></li>
-    <li><a href=\"../neues.html\">Neues</a></li>
+    <!-- li><a href=\"../neues.html\">Neues</a></li -->
   </ul></nav>
 </div>
 </header>"	 
@@ -195,7 +195,7 @@ relative link in the sitemap-publish function"
     <li><a href=\"./impressum.html\">Impressum</a></li>
     <li><a href=\"./achaia.html\">Index</a></li>
     <li><a href=\"./wiki.html\">Wiki</a></li>
-    <li><a href=\"./neues.html\">Neues</a></li>
+    <!-- li><a href=\"./neues.html\">Neues</a></li -->
   </ul></nav>
 </div>
 </header>"	 
@@ -237,7 +237,7 @@ relative link in the sitemap-publish function"
     <li><a href=\"../impressum.html\">Impressum</a></li>
     <li><a href=\"../achaia.html\">Index</a></li>
     <li><a href=\"../wiki.html\">Wiki</a></li>
-    <li><a href=\"../neues.html\">Neues</a></li>
+    <!-- li><a href=\"../neues.html\">Neues</a></li -->
   </ul></nav>
 </div>
 </header>"	 
