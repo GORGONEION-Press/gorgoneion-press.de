@@ -27,45 +27,38 @@ Antikes Versepos\\
 Erschienen: 06.12.2016
 
 ** Personae
--  Monster und Menschen
--  [[file:bestien-ikas.org][Bestien-Ikas]]: Ehemaliger thrakischer Heerführer.
-   Durch Kronos in eine Bestie verwandelt.
--  [[file:perdix.org][Perdix]]: Neffe des Daedalus. Genialer Erfinder.
--  [[file:pygmalion.org][Pygmalion]]: Kleinwüchsiger König von Paphos. Genialer
-   Bildhauer.
--  [[file:ostreos.org][Ostreos]]: Sein oberster Diener.
--  [[file:askrinos.org][Askrinos der Freie]]: Gefeierter Lebemann und Liebhaber
-   des Ostreos.
--  Protogenoi und Titanen
--  [[file:gaia.org][Gaia]]: Die Allmutter. Uranus trieb ihr die Kyklopen und
-   Hekatoncheiren in den Leib.
--  [[file:uranus.org][Uranus]]: Verkörperung des Himmels. Gatte der Gaia. Im
-   Auftrag der Gaia von Kronos mit einer Hippe entmannt.
--  [[file:kronos.org][Kronos]]: Der Krumme. Jüngster Sohn des Uranus und der
-   Gaia. Hat die Kroniden verschlungen.
--  Sonstige Begriffe und Fabelwesen
--  [[file:kroniden.org][Kroniden]]: Kinder des Kronos.
-   -  [[file:zeus.org][Zeus]]
-   -  [[file:hades.org][Hades]]
-   -  [[file:poseidon.org][Poseidon]]
-   -  [[file:hera.org][Hera]]
-   -  [[file:hestia.org][Hestia]]
-   -  [[file:demeter.org][Demeter]]
--  [[file:uraniden.org][Uraniden]]: Kinder des Uranus.
-   -  [[file:kronos.org][Kronos]]
-   -  [[file:rhea.org][Rhea]]
-   -  [[file:themis.org][Themis]]
-   -  [[file:koios.org][Koios]]
-   -  [[file:hyperion.org][Hyperion]]
-   -  [[file:iapetos.org][Iapetos]]
-   -  [[file:kreios.org][Kreios]]
-   -  [[file:okeanos.org][Okeanos]]
-   -  [[file:tethys.org][Tethys]]
-   -  [[file:phoibe.org][Phoibe]]
-   -  [[file:theia.org][Theia]]
-   -  [[file:mnemosyne.org][Mnemosyne]]
--  Weitere [[file:goetter.org][Götter]], [[file:titanen.org][Titanen]],
-   [[file:fabelwesen.org][Fabelwesen]].
+- Monster und Menschen
+  - [[file:bestien-ikas.org][Bestien-Ikas]]: Ehemaliger thrakischer Heerführer. Durch [[file:kronos.org][Kronos]] in eine Bestie verwandelt.
+  - [[file:perdix.org][Perdix]]: Neffe des [[file:daedalus.org][Daedalus]]. Genialer Erfinder.
+  - [[file:pygmalion.org][Pygmalion]]: Kleinwüchsiger König von [[file:paphos.org][Paphos]]. Genialer Bildhauer.
+  - [[file:ostreos.org][Ostreos]]: Sein oberster Diener.
+  - [[file:askrinos.org][Askrinos der Freie]]: Gefeierter Lebemann und Liebhaber des Ostreos.
+- Protogenoi und Titanen
+  - [[file:gaia.org][Gaia]]: Die Allmutter. [[file:uranus.org][Uranus]] trieb ihr die [[file:kyklopen.org][Kyklopen]] und [[file:hekatoncheiren.org][Hekatoncheiren]] in den Leib.
+  - [[file:uranus.org][Uranus]]: Verkörperung des Himmels. Gatte der Gaia. Im Auftrag der Gaia von Kronos mit einer [[file:hippe.org][Hippe]] entmannt.
+  - [[file:kronos.org][Kronos]]: Der Krumme. Jüngster Sohn des Uranus und der Gaia. Hat die [[file:kroniden.org][Kroniden]] verschlungen.
+- Sonstige Begriffe und Fabelwesen
+  - [[file:kroniden.org][Kroniden]]: Kinder des Kronos.
+    -  [[file:zeus.org][Zeus]]
+    -  [[file:hades.org][Hades]]
+    -  [[file:poseidon.org][Poseidon]]
+    -  [[file:hera.org][Hera]]
+    -  [[file:hestia.org][Hestia]]
+    -  [[file:demeter.org][Demeter]]
+  - [[file:uraniden.org][Uraniden]]: Kinder des Uranus.
+    -  [[file:kronos.org][Kronos]]
+    -  [[file:rhea.org][Rhea]]
+    -  [[file:themis.org][Themis]]
+    -  [[file:koios.org][Koios]]
+    -  [[file:hyperion.org][Hyperion]]
+    -  [[file:iapetos.org][Iapetos]]
+    -  [[file:kreios.org][Kreios]]
+    -  [[file:okeanos.org][Okeanos]]
+    -  [[file:tethys.org][Tethys]]
+    -  [[file:phoibe.org][Phoibe]]
+    -  [[file:theia.org][Theia]]
+    -  [[file:mnemosyne.org][Mnemosyne]]
+- Weitere [[file:goetter.org][Götter]], [[file:titanen.org][Titanen]], [[file:fabelwesen.org][Fabelwesen]].
 
 ** Was bisher geschah
 Der thrakische Heerführer [[file:ikas.org][Ikas]] wird vom Blitz getroffen und findet sich im [[file:tartarus.org][Tartarus]] wieder. Er begegnet der Allmutter [[file:gaia.org][Gaia]], die ihn bittet, ihrem Sohn [[file:kronos.org][Kronos]] eine Sichel zu bringen, um sie von den ständigen Nachstellungen ihres Gatten [[file:uranus.org][Uranus]] zu erlösen.
