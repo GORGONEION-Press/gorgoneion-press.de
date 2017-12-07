@@ -1,0 +1,251 @@
+#+SETUPFILE: ../../org-templates/level-1.org
+#+TITLE: Titaneion-Titanenschlacht Episoda 1: Bestienborn (Gesängekatalog)
+#+STARTUP: showall
+
+#+CAPTION: 
+#+ATTR_HTML: :alt Cover Titaneion 1 Bestienborn :style float: right;
+[[file:../img/buch-titaneion-1_350x490.jpg]]
+
+*ZEIT, DEN ULTIMATIVEN KRIEG ZU ENTFESSELN!*
+
+#+BEGIN_QUOTE
+Oh Götter!\\
+So stehn wir hier im Kriegesrausch\\
+und morden uns,\\
+um grausamst Götter Todesdurst\\
+ein weitres schrecklich Mal zu stillen.\\
+*--IKAS*\\
+*Thrakischer Heerführer*
+#+END_QUOTE
+
+Was als siegreiche Schlacht beginnt, endet für den thrakischen Heerführer [[file:ikas.org][Ikas]] im [[file:tartarus.org][Tartarus]]. Sein Spott gegen die [[file:goetter.org][Götter]] ist es, der den [[file:zeus.org][Göttervater]] selbst auf den Plan ruft. In den finsteren Klüften angekommen, wird Ikas zum Spielball uralter Mächte. Uralter Mächte, die noch eine Rechnung miteinander zu begleichen haben. Doch Rache und Intrige führen zu etwas, das keine der involvierten Mächte vorhergesehen hat: Zur Geburt einer [[file:bestien-ikas.org][Bestie]], vor deren Wut sich selbst [[file:titanen.org][Titanen]] in Acht nehmen müssen ...
+
+#+INCLUDE: "../../includes/titaneion-1-links.html" html
+
+Antikes Versepos\\
+292 Seiten\\
+Erschienen: 12.06.2016
+
+** ERSTER GESANG - Der Tod des Ikas
+*** Meerenge bei Salamis. Seeschlacht.
+IKAS DER THRAKER. PANDRINOS. Beide in voller Schlachtmontur.
+
+Seeschlacht gegen [[file:euboea.org][Euböa]].
+
+*** Euböische Trireme.
+IKAS und DRONOS im Zweikampf. Das halbe Meer steht in Flammen.
+
+[[file:ikas.org][Ikas]] erschlägt den Dronos, lästert den [[file:goetter.org][Göttern]], wird von einem Blitz erschlagen und verschwindet.
+
+*** Verlassener Teil des Tartarus. Stille.
+Der am Boden liegende IKAS. Eine ALTE FRAU mit dickem Bauch erscheint.
+
+[[file:ikas.org][Ikas]] findet sich im [[file:tartarus.org][Tartarus]] wieder. Die [[file:gaia.org][alte Frau]] erteilt ihm den Auftrag, ihrem Sohn [[file:kronos.org][Kronos]] eine [[file:hippe.org][Hippe]] zu bringen, damit er den [[file:uranus.org][Uranus]] entmannen kann. Die alte Frau entpuppt sich als [[file:gaia.org][Gaia]]. Ikas macht sich mithilfe der Hippe an den Aufstieg aus dem Tartarus.
+
+** ZWEITER GESANG - Die Entmannung des Uranus
+*** Erde.
+Der vor einem Busch liegende KRONOS.
+
+[[file:ikas.org][Ikas]] findet den [[file:kronos.org][Kronos]] und erzählt ihm vom Plan der [[file:gaia.org][Gaia]]. Sie springen in den [[file:tartarus.org][Tartarus]] hinunter.
+
+*** Tartarus.
+IKAS. KRONOS. Sie landen schwer im Tartarus.
+
+[[file:kronos.org][Kronos]] entmannt [[file:uranus.org][Uranus]] und hält den [[file:ikas.org][Ikas]] unter das tropfende Blut. Ikas trinkt das Blut des Uranus und verwandelt sich in eine schreckliche [[file:Bestien-Ikas][Bestie]]. [[file:aphrodite.org][Aphrodite]] entsteigt dem Gemächt des Uranus. Ikas macht sich auf, Kronos zu suchen, Aphrodite folgt ihm. Es kommt zu mehreren Prophezeiungen. Uranus schmäht den Kronos.
+
+** DRITTER GESANG - Die Verschlingung der Kroniden
+*** Himmelsfeste des Uranus.
+KRONOS. Sämtliche Kroniden: ZEUS, POSEIDON, HADES, HESTIA, DEMETER, HERA.
+
+[[file:kronos.org][Kronos]] verschlingt die [[file:kroniden.org][Kroniden]]. [[file:aphrodite.org][Aphrodite]] erscheint und warnt ihn vor [[file:bestien-ikas.org][Bestien-Ikas]]. Bestien-Ikas erscheint und wirft sich auf ihn. Kronos reißt ihm die Flügel heraus und zerstört die [[file:hippe.org][Hippe]]. Er wirft Bestien-Ikas durch die Wolkendecke. [[file:hades.org][Hades]] kann fliehen und schwört, mit dem Bestien-Mann zurückzukehren. Aphrodite entwischt ihm ebenso. Kronos schwört, ein Heer aus [[file:titanen.org][Titanen]] aufzustellen. Kronos denkt, dass Hades es ist, der ihn verraten wird.
+
+*** Freier Fall zwischen Himmel und Erde
+Der stürzende BESTIEN-IKAS. HADES.
+
+[[file:hades.org][Hades]] errettet den [[file:bestien-ikas.org][Bestien-Ikas]]. Hades schwört Rache.
+
+*** Tartarus.
+HADES trägt den bewusstlosen BESTIEN-IKAS.
+
+[[file:hades.org][Hades]] erzählt [[file:gaia.org][Gaia]], was im Himmel vorgefallen ist. [[file:uranus.org][Uranus]] kommt dazu und schwört, ein besserer "Mensch" zu werden. Uranus schlägt vor, sich an [[file:daedalus.org][Daedalus]] zu wenden. Daedalus hockt im Kerker, dorthin brechen Hades und [[file:bestien-ikas.org][Bestien-Ikas]] auf.
+
+** VIERTER GESANG - Die Befreiung des Daedalus
+*** Kerker in Euböa.
+DAEDALUS in Ketten. Sein wahnsinniges Lachen hallt durch die finsteren Gänge.
+
+[[file:bestien-ikas.org][Bestien-Ikas]] befreit den [[file:daedalus.org][Daedalus]].
+
+*** Geheimes Labor des Daedalus irgendwo in Attika.
+DAEDALUS. BESTIEN-IKAS setzt ihn auf den Boden. HADES noch immer unsichtbar.
+
+[[file:bestien-ikas.org][Bestien-Ikas]] bringt [[file:daedalus.org][Daedalus]] in sein Geheimlabor. Es kommt zu Unterhaltungen über die [[file:goetter.org][Götter]] und wie sie die Menschen ständig kleinzuhalten versuchen. [[file:hades.org][Hades]] schöpft Verdacht, die Ablehnung der Götter und [[file:titanen.org][Titanen]] durch den Bestien-Ikas scheint ihm zu glaubhaft. Er beschließt, [[file:gaia.org][Gaia]] zu berichten.
+
+** FÜNFTER GESANG - Erste Titanenheerschau und Orakelspruch
+*** Himmelsfeste.
+Versammlung der Kinder des Uranus und der Gaia: KRONOS, OKEANOS, HYPERION, KREIOS, KOIOS, IAPETOS, RHEA, TETHYS, THEMIS, PHOIBE, THEIA, MNEMOSYNE.
+
+[[file:kronos.org][Kronos]] berichtet seinen [[file:titanen.org][Titanengeschwistern]] von dem Vorfall mit [[file:bestien-ikas.org][Bestien-Ikas]] und erbittet ihre Unterstützung. [[file:kreios.org][Kreios]] will erst Gewissheit, ob es überhaupt zum Kampfe kommen wird (= ob der Bestien-Ikas überhaupt noch lebt). [[file:okeanos.org][Okeanos]] schlägt vor, [[file:themis.org][Themis]] das [[file:orakel-von-delphi.org][Orakel]] befragen zu lassen. Themis verwehrt Kronos ihre Unterstützung, will ihm jedoch den [[file:orakelblick.org][Orakelblick]] als letzte Hilfe gewähren.
+
+*** Hang des Parnass. Weg zum Orakel von Delphi. Nacht.
+Versammlung der Kinder des Uranus und der Gaia. PYTHON, eine geflügelte Schlange und Bewacher des Orakels.
+
+Am [[file:python.org][Python]] vorbei führt [[file:themis.org][Themis]] die [[file:titanen.org][Titanen]] zum [[file:orakel-von-delphi.org][Orakel]].
+
+*** Orakel von Delphi. Nacht.
+Sämtliche Kinder des Uranus und der Gaia.
+
+[[file:kronos.org][Kronos]] sieht den [[file:bestien-ikas.org][Ikas]] mit Metallflügeln. Er sieht sich im Orakelbecken mit einem seltsamen Wesen ringen (Dampf etc.). [[file:goetter.org][Götter]] kämpfen. Er erblickt ein Laboratorium, Flügel mit Wachs hängen an der Wand. Sie erkennen den [[file:daedalus.org][Daedalus]] und hören den doppeltönigen Wind. Sie schließen daraus, dass sich das gezeigte Labor auf [[file:attika.org][Attika]] befinden muss. Auch [[file:bestien-ikas.org][Bestien-Ikas]] ist im Labor zu sehen, die Flügel nur noch Stümpfe. Er fragt jeden einzelnen [[file:titanen.org][Titanen]] nach seiner Unterstützung.
+
+Es schließen sich ihm an:
+
+- [[file:kreios.org][Kreios]]
+- [[file:iapetos.org][Iapetos]]
+- [[file:koios.org][Koios]]
+- [[file:hyperion.org][Hyperion]]
+- [[file:atlas.org][Atlas der Harte]]
+- [[file:menoitios.org][Menoitios]]
+
+Es verwehren ihre Hilfe:
+
+- [[file:okeanos.org][Okeanos]]
+- [[file:theia.org][Theia]]
+- [[file:themis.org][Themis]]
+- [[file:rhea.org][Rhea]]
+- [[file:mnemosyne.org][Mnemosyne]]
+- [[file:tethys.org][Tethys]]
+- [[file:phoibe.org][Phoibe]]
+
+[[file:rhea.org][Rhea]] schwört, sich gegen [[file:kronos.org][Kronos]] zu erheben und sich seinen Gegnern anzuschließen. Kronos beschwört und entsendet sein Dämonenheer nach [[file:attika.org][Attika]].
+
+** SECHSTER GESANG - Die Enthauptung des Daedalus
+*** Geheimes Labor des Daedalus.
+DAEDALUS. BESTIEN-IKAS.
+
+Dämonen überfallen das Labor. [[file:daedalus.org][Daedalus]] wird tödlich getroffen und gibt [[file:bestien-ikas.org][Bestien-Ikas]] und [[file:hades.org][Hades]] eine Rolle mit einer Zeichnung mit, die sie seinem Neffen [[file:perdix.org][Perdix]] bringen sollen. Als sie gehen wollen, weist er sie daraufhin, dass Perdix seinen Kopf brauchen wird. Statt den Leichnam mitzunehmen, reißt Bestien-Ikas dem Daedalus den Kopf ab und nimmt diesen mit sich. Hades und Bestien-Ikas können im letzten Moment fliehen.
+
+*** Tartarus.
+HADES und BESTIEN-IKAS, Kopf und Schriftrolle unter dem Arm, erscheinen.
+
+[[file:gaia.org][Gaia]] überreicht [[file:bestien-ikas.org][Bestien-Ikas]] das [[file:schwarzes-vlies-des-thrakischen-widders.org][Schwarze Vlies des Thrakischen Widders]]. Gaia erwähnt, dass [[file:athene.org][Athene]] sich inkognito in [[file:athen.org][Athen]] in den Schenken aufhält, seit sie mit [[file:zeus.org][Zeus]] gebrochen hat. [[file:rhea.org][Rhea]] erscheint und schließt sich ihnen an. Den Kopf des [[file:daedalus.org][Daedalus]] verstauen sie in einer Felsspalte im [[file:tartarus.org][Tartarus]].
+
+** SIEBTER GESANG - Die Urgewalt der Athene und finsterstes Schwören
+*** Schenke Zum Titanischen Trunke in Athen.
+Bande lustiger Gesellen. Ein überaus kräftig gewachsenes Mannsweib. Eine Eule im Gebälk.
+
+Sie stoßen auf [[file:athene.org][Athene]], die sogleich in eine zünftige Rauferei gerät. Ihre Eule [[file:glaukos.org][Glaukos]] schickt sie fort, nachdem sie sich im Kampf bewiesen hat. [[file:bestien-ikas.org][Bestien-Ikas]] fragt sie nach [[file:perdix.org][Perdix]] aus, muss ihr im Gegenzug schwören, dass sie sich an [[file:zeus.org][Zeus]] rächen darf. Als Bestien-Ikas ihr die Hand zum Schwur reicht, kommt seine Klauenhand zum Vorschein. Bevor der Schreckensschrei der Athene die Aufmerksamkeit der anderen Gäster erregen kann, schläfert [[file:hades.org][Hades]] sie ein und trägt sie auf ihr Zimmer.
+
+*** Tartarus.
+GAIA hinkt mit gebeugtem Kreuz durch die Felsenklüfte. Das Gebrüll der Hekatoncheiren und Kyklopen in ihrem Wanst ist zu vernehmen.
+
+[[file:kronos.org][Kronos]] erscheint und stellt [[file:gaia.org][Gaia]] zur Rede. Er findet den Kopf des [[file:daedalus.org][Daedalus]]. [[file:uranus.org][Uranus]] und Gaia entsagen sich des Kronos, der Kronos entsagt sich seiner Eltern und schwört Rache. Den Kopf des Daedalus lässt er zurück. [[file:aphrodite.org][Aphrodite]] erscheint, sie sucht den [[file:bestien-ikas.org][Ikas]]. Die gedrückte Stimmung droht sie zu vertreiben. Sie beschließen, auf die Rückkehr des Ikas zu warten.
+
+*** Eine finstere Seitengasse in Athen.
+BESTIEN-IKAS. RHEA. HADES, die bewusstlose ATHENE über der Schulter tragend.
+
+[[file:athene.org][Athene]] erwacht. Sie versuchen, sie zu überzeugen, sich auf ihre Seite zu stellen. Dass [[file:bestien-ikas.org][Bestien-Ikas]] das Versprechen an [[file:daedalus.org][Daedalus]] erfüllen will, rührt sie dermaßen an, dass sie sich auf ihre Seite schlägt. [[file:rhea.org][Rhea]] muss schwören, dass Athene ihren Sohn [[file:zeus.org][Zeus]] töten darf. [[file:hades.org][Hades]] muss schwören, ihr bei ihrer Rache an Zeus zu helfen. Erst nach langem Wehren willigt der Totengott ein. Athene hat vergessen, wo sie den [[file:perdix.org][Perdix]] zurückgelassen hat. Sie hofft, bei einem kräftigen Schluck die Erinnerung wiederzufinden. Sie wirft sich die beim Schwur ohnmächtig gewordene Rhea über die Schulter. Sie machen sich auf zum nächsten Wirtshaus.
+
+*** Schenke Quelle des Lyäus in Athen.
+HADES. BESTIEN-IKAS. ATHENE, die bewusstlose RHEA über der Schulter tragend. Einige SCHENKENBESUCHER. SCHANKWIRT.
+
+Sie fangen an zu trinken, die Lage gerät außer Kontrolle. Sie verplappern sich, wer sie alle sind und was ihre Mission ist. Der Schankwirt bekommt spitze Ohren und will sie an den [[file:kronos.org][Kronos]] verraten. Nachdem [[file:rhea.org][Rhea]], [[file:athene.org][Athene]] und [[file:bestien-ikas.org][Ikas]] bewusstlos sind, schleppt [[file:hades.org][Hades]] sie alle auf ihre Zimmer.
+
+** ACHTER GESANG - Verrat und Harpyiensturm
+*** Tempel des Kronos zu Athen. Nacht. Kurz vor Sonnenaufgang.
+Zwei finstere Schatten stehen sich zwischen Säulen gegenüber.
+
+Der Gastwirt berichtet einem [[file:kronospriester.org][Priester]] des [[file:kronos.org][Kronos]] von den Gästen in seiner Schenke. Daraufhin erscheint Kronos selbst. Der Priester stürzt ins Becken, der Schankwirt führt Kronos in sein [[file:quelle-des-lyaeus.org][Gasthaus]], in dem er den [[file:hades.org][Hades]] und die anderen eingeschlossen hat.
+
+*** Gästezimmer der Schenke Quelle des Lyäus in Athen.
+HADES steht an der Tür. BESTIEN-IKAS erwacht.
+
+[[file:hades.org][Hades]] und [[file:bestien-ikas.org][Bestien-Ikas]] finden sich eingeschlossen in einem Zimmer wieder. Ikas reißt die Tür heraus.
+
+*** Flur der Schenke.
+HADES. BESTIEN-IKAS.
+
+Sie befreien [[file:rhea.org][Rhea]] und [[file:athene.org][Athene]]. [[file:kronos.org][Kronos]] greift sie an, wirft ihnen den Kopf des Schankwirtes vor die Füße und erwürgt beinahe die Rhea. Kronos flieht, die [[file:quelle-des-lyaeus.org][Schenke]] liegt in Trümmern. Sie beschließen, nach unten zu gehen, damit Athene ihren Schluck bekommt. [[file:hades.org][Hades]] nimmt den Kopf des Schankwirts an sich.
+
+*** Verwüstete Schenke Quelle des Lyäus in Athen.
+ATHENE. HADES. RHEA. BESTIEN-IKAS. Der Raum liegt unter Staub und Trümmern.
+
+[[file:hades.org][Hades]] befragt den Kopf des Schankwirtes. [[file:rhea.org][Rhea]] nimmt Reißaus vor dem schrecklichen Anblick. Der Kopf verrät, dass er dem [[file:kronos.org][Kronos]] nicht verraten konnte, was Hades und die anderen vorhatten. Ihm wurde der Kopf abgerissen, da Kronos "keine Zeugen gebrauchen" kann. [[file:athene.org][Athene]] gibt dem Kopf von seinem eigenen Brannt zu trinken. Draußen ertönt der Schrei der Rhea. Menschen rufen "[[file:harpyien.org][Harpyien]]!" Sie stürmen nach draußen.
+
+*** Straße vor der Schenke Quelle des Lyäus in Athen.
+Harpyien und Dämonen toben, Menschen werden zerrissen, in die Lüfte entführt, Feuer brennen. HADES, ATHENE, BESTIEN-IKAS stürzen nach draußen.
+
+[[file:harpyien.org][Harpyien]] greifen die Stadt an. [[file:athene.org][Athene]] wirft einen Balken, verfehlt jedoch ihr Ziel. Es kommt zum Streit über die Trunksucht der Athene. Die [[file:goetter.org][Götter]] gestehen, dass es ihnen nicht darum geht, die Menschen zu retten, sondern allein um die Macht und dass sie nicht in die Hände der [[file:titanen.org][Titanen]], sondern allein in Götterhande gehört.
+
+*** Schlachtenerzitternde Stadt Athen.
+DÄMONENHORDEN. Sterbende Stadtbewohner. Drei kaum auszumachende GESTALTEN reißen Schneise um Schneise in die Bestienmassen.
+
+[[file:harpyien.org][Harpyien]] entführen die [[file:rhea.org][Rhea]]. Menschen werden gepackt und aus großer Höhe zu Boden fallen gelassen. Es gelingt [[file:hades.org][Hades]], [[file:athene.org][Athene]] und [[file:bestien-ikas.org][Bestien-Ikas]], den Bestienansturm zurückzuwerfen.
+
+*** Ausläufer der Stadt Athen mit Blick auf das Ägäische Meer. Im
+Stadtinneren nichts als Berge voller Leichen. HADES, ATHENE, BESTIEN-IKAS von Kopf bis Fuß mit Blut und schwarzer Masse überzogen.
+
+[[file:bestien-ikas.org][Bestien-Ikas]] offenbart den [[file:goetter.org][Göttern]], dass sie darauf angewiesen sind, von den Menschen verehrt zu werden. Die Götter reagieren darauf unentschlossen, wissen nicht, wie ernst sie die Sache nehmen sollen.
+
+** NEUNTER GESANG - Nach Paphos
+*** Tartarus.
+Ein einsamer SCHATTEN.
+
+Der [[file:kronospriester.org][Kronos-Priester]] findet sich im [[file:tartarus.org][Tartarus]] wieder. Er trifft auf [[file:gaia.org][Gaia]]. In seinem Kopf ertönt die Stimme des [[file:kronos.org][Kronos]], der ihn als Spion einsetzen will. Er bietet seine Dienste den anderen an und schließt sich ihnen an, in [[file:paphos.org][Paphos]] nach [[file:perdix.org][Perdix]] zu suchen. [[file:hades.org][Hades]] befragt den Kopf des [[file:daedalus.org][Daedalus]] nach dem Labor, in dem [[file:athene.org][Athene]] den Perdix stehen sieht. Er berichtet von zwei Laboren, eins auf [[file:salamis.org][Salamis]] und eins in Paphos. Der [[file:schatten-des-kronospriesters.org][Schatten]] wird ob des Anblickes ohnmächtig. [[file:aphrodite.org][Aphrodite]] erscheint und macht sich als Erste nach Paphos auf. Athene, der Schatten, Hades und [[file:bestien-ikas.org][Bestien-Ikas]] brechen nach Paphos auf.
+
+*** Küste bei Paphos. Tag. Gute Sicht und gutes Wetter. Wellen.
+Ein FISCHER holt Netze ein. Sie sind größtenteils leer.
+
+[[file:aphrodite.org][Aphrodite]] erscheint und versucht, den traurigen Fischer zu trösten. Es gelingt ihr nicht. Die anderen erscheinen zwischendurch. Zum Abschied schenkt sie dem Fischer einen [[file:goldener-apfel.org][goldenen Apfel]], damit er bis ans Ende seines Lebens mit seiner Frau glücklich wird.
+
+*** Straße nach Paphos.
+Gruppe leicht bekleideter DIRNEN am Wegesrand. HADES, ATHENE, BESTIEN-IKAS, APHRODITE und der SCHATTEN.
+
+Drei Dirnen bedrängen sie obszön. [[file:aphrodite.org][Aphrodite]] versteinert sie schließlich und ist entsetzt ob ihrer Tat.
+
+*** Stadtmauer zu Paphos.
+ATHENE, HADES, BESTIEN-IKAS, APHRODITE und der SCHATTEN nähern sich. Einige WACHEN stellen sich ihnen in den Weg.
+
+Die Wachen greifen sie an. Sie fliehen in die [[file:paphos.org][Stadt]].
+
+*** Stadt Paphos. Marktplatz.
+Treiben und Gedränge. HADES, ATHENE, APHRODITE, BESTIEN-IKAS und der SCHATTEN stürzen in das Gedränge. Die EINWOHNER beäugen die Neuankömmlinge kritisch.
+
+Die Blicke der Stadtbewohner folgen lediglich [[file:athene.org][Athene]] und [[file:aphrodite.org][Aphrodite]]. In der Ferne erblicken sie gepfählte Frauen. Die Stadtbewohner und herbeieilende Wachen stürmen auf sie zu. [[file:hades.org][Hades]] [[file:manifestation.org][teleportiert]] sie gerade noch rechtzeitig davon.
+
+*** Stadt Paphos. Dunkle Seitengasse.
+HADES, ATHENE, BESTIEN-IKAS, APHRODITE, und der SCHATTEN erscheinen.
+
+Sie beschließen, eine Schenke aufzusuchen, um nach [[file:perdix.org][Perdix]] zu fragen. Ein [[file:perdix.org][Schatten]] fliegt über sie hinweg. Sie verkleiden die Weiber in ein paar Stofffetzen, damit sie in der Schenke nicht erkannt werden. Ein paar Gassen weiter erblicken sie eine [[file:thermodonion.org][Schenke]].
+
+*** Schenke Thermodonion in Paphos.
+Der Schankraum ist brechend voll. HADES, ATHENE, BESTIEN-IKAS, APHRODITE und der SCHATTEN treten durch die Tür.
+
+[[file:athene.org][Athene]] geht sofort zur Theke und wird von [[file:hades.org][Hades]] zurückgeholt, ehe sie sich verplappern kann. Der [[file:schatten-des-kronospriesters.org][Schatten]] geht vor die Tür, um Luft zu schnappen. [[file:bestien-ikas.org][Bestien-Ikas]] folgt ihm, da sie ihm nicht trauen. Athene wird von einem Betrunkenen angemacht. Als er die dicken Arme sieht, lässt er von ihr ab. Hades will nachsehen, wo der Schatten und der Ikas bleiben. Eine [[file:perdix.org][Gestalt im schwarzen Mantel]] betritt die [[file:thermodonion.org][Schenke]] und verschwindet in der Menschenmenge. Wachen erscheinen und suchen nach Ikas, Athene, [[file:aphrodite.org][Aphrodite]] und Hades. Sie werden von der Menschenmenge ausgelacht. Es kommt zum Kampf, in welchem sich die Schenkenbesucher als [[file:amazonen.org][Amazonen]] entpuppen. Die Gestalt im schwarzen Mantel ermöglicht Athene und Aphrodite die Flucht durch eine Falltür.
+
+*** Seitengasse in der Nähe der Schenke Thermodonion in Paphos.
+BESTIEN-IKAS sucht die Gegend nach dem Schatten ab.
+
+Er stößt auf [[file:hades.org][Hades]]. Sie geben die Suche nach dem [[file:schatten-des-kronospriesters.org][Schatten]] auf. Als sie zur [[file:thermodonion.org][Schenke]] zurückkehren, werden sie Zeuge des Angriffs der Wachen auf das Gebäude. Die Schenke geht in Flammen auf. [[file:bestien-ikas.org][Bestien-Ikas]] wird von den Wachen überwältigt beim Versuch, die Schenke zu stürmen. Hades hält sich zurück. Er wird Zeuge, wie die Schenke brennend zusammenstürzt. Überzeugt, dass [[file:athene.org][Athene]] und [[file:aphrodite.org][Aphrodite]] tot sein müssen, verschwindet er in den [[file:tartarus.org][Tartarus]].
+
+** ZEHNTER GESANG - Titanendämmerung
+*** Langer Gang unter der Schenke. Dunkelheit.
+ATHENE. APHRODITE. GESTALT IM SCHWARZEN MANTEL. Einige Amazonen fleuchen umher, ihre Schritte hallen durch die Finsternis.
+
+[[file:athene.org][Athene]] und [[file:aphrodite.org][Aphrodite]] finden sich im unterirdischen Labor des [[file:perdix.org][Perdix]] wieder. Es ist das Labor, welches Athene in ihren Visionen gesehen hat. Die Gestalt im schwarzen Mantel entpuppt sich als Perdix. Sie berichten Perdix von der Rolle des [[file:daedalus.org][Daedalus]] und dass [[file:bestien-ikas.org][Ikas]] sie bei sich hatte. Perdix macht sich auf die Suche nach Ikas. Sie erfahren von [[file:pygmalion.org][Pygmalion]], der alle Frauen wegen den drei Dirnen vor der Stadt pfählen ließ. Nachdem Perdix verschwunden ist, begeben sich auch Athene und Aphrodite auf die Suche nach Ikas.
+
+*** Nacht. Geheimer Ausgang irgendwo außerhalb von Paphos.
+ATHENE und APHRODITE treten daraus hervor. Vor ihnen liegt der Blick über das Meer.
+
+[[file:perdix.org][Perdix]] hockt im Baum über ihnen. Sie blicken in die Ferne. [[file:athene.org][Athene]] schwört ihrer Trinksucht ab.
+
+*** Tartarus.
+GAIA. Gebrüll der Hekatoncheiren und Kyklopen aus ihrem Wanste.
+
+[[file:hades.org][Hades]] lässt die Hoffnung fahren und berichtet der [[file:gaia.org][Gaia]]. [[file:uranus.org][Uranus]] kommt herbei und schlägt vor, das Delphische Orakel zu befragen. Sie brechen zum [[file:orakel-von-delphi.org][Orakel]] auf, um zu erfahren, ob noch Hoffnung besteht. Gaia möchte sich an [[file:themis.org][Themis]] für den Verrat rächen, den sie beging, als sie [[file:kronos.org][Kronos]] den Blick ins Becken erlaubte.
+
+*** Himmelsfeste.
+KRONOS. Der SCHATTEN. Einige weitere Titanen im Hintergrund.
+
+Der [[file:schatten-des-kronospriesters.org][Schatten]] berichtet [[file:kronos.org][Kronos]] vom Einsturz der [[file:thermodonion.org][Schenke]]. Kronos ist mit den Informationen unzufrieden und schlägt den Schatten nieder. [[file:menoitios.org][Menoitios]] schlägt vor, das [[file:orakel-von-delphi.org][Orakel von Delphi]] aufzusuchen. Kronos denkt darüber nach, eine der anderen Titaninnen ans Orakel zu stellen. Kronos, Menoitios, [[file:kreios.org][Kreios]] und [[file:atlas.org][Atlas]] brechen auf.
+
+** Siehe auch
+- [[file:titaneion-1.org][Titaneion-Titanenschlacht Episoda 1: Bestienborn]]
