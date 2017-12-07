@@ -48,9 +48,32 @@ Erschienen: 06.12.2016
 
 + [[file:./achaia/titaneion-2.org][Zur Wiki-Seite]]
 -----
+*** TITANEION - Titanenschlacht Episoda 1: Bestienborn
+#+CAPTION: 
+#+ATTR_HTML: :alt Cover Titaneion 1 Bestienborn :style float: right;
+[[file:./img/buch-titaneion-1_350x490.jpg]]
 
-#+INCLUDE: "../includes/titaneion-1.html" html
+*ZEIT, DEN ULTIMATIVEN KRIEG ZU ENTFESSELN!*
 
+#+BEGIN_QUOTE
+Oh Götter!\\
+So stehn wir hier im Kriegesrausch\\
+und morden uns,\\
+um grausamst Götter Todesdurst\\
+ein weitres schrecklich Mal zu stillen.\\
+*--IKAS*\\
+*Thrakischer Heerführer*
+#+END_QUOTE
+
+Was als siegreiche Schlacht beginnt, endet für den thrakischen Heerführer [[file:./achaia/ikas.org][Ikas]] im [[file:./achaia/tartarus.org][Tartarus]]. Sein Spott gegen die [[file:./achaia/goetter.org][Götter]] ist es, der den [[file:./achaia/zeus.org][Göttervater]] selbst auf den Plan ruft. In den finsteren Klüften angekommen, wird Ikas zum Spielball uralter Mächte. Uralter Mächte, die noch eine Rechnung miteinander zu begleichen haben. Doch Rache und Intrige führen zu etwas, das keine der involvierten Mächte vorhergesehen hat: Zur Geburt einer [[file:./achaia/bestien-ikas.org][Bestie]], vor deren Wut sich selbst [[file:./achaia/titanen.org][Titanen]] in Acht nehmen müssen ...
+
+#+INCLUDE: "../includes/titaneion-1-links.html" html
+
+Antikes Versepos\\
+292 Seiten\\
+Erschienen: 12.06.2016
+
++ [[file:./achaia/titaneion-1.org][Zur Wiki-Seite]]
 -----
 
 #+INCLUDE: "../includes/arachneion-pallashass.html" html
