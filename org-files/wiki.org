@@ -22,6 +22,7 @@ Hier findest du alle Informationen zur *Welt Achaia* und allen Werken, die in, a
 
 ** Die Werke
 *** TITANEION - Titanenschlacht Episoda 2: Kolossansturm
+
 #+CAPTION: 
 #+ATTR_HTML: :alt Cover Titaneion 2 Kolossansturm :style float: right;
 [[file:./img/buch-titaneion-2_350x490.jpg]]
@@ -47,8 +48,11 @@ Antikes Versepos\\
 Erschienen: 06.12.2016
 
 - [[file:./achaia/titaneion-2.org][Zur Wiki-Seite]]
+
 -----
+
 *** TITANEION - Titanenschlacht Episoda 1: Bestienborn
+
 #+CAPTION: 
 #+ATTR_HTML: :alt Cover Titaneion 1 Bestienborn :style float: right;
 [[file:./img/buch-titaneion-1_350x490.jpg]]
@@ -74,8 +78,11 @@ Antikes Versepos\\
 Erschienen: 12.06.2016
 
 - [[file:./achaia/titaneion-1.org][Zur Wiki-Seite]]
+
 -----
+
 *** ARACHNEION - Pallashass
+
 #+CAPTION: 
 #+ATTR_HTML: :alt Cover Arachneion-Pallashass :style float: right;
 [[file:./img/buch-arachneion_350x490.jpg]]

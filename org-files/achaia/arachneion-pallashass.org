@@ -2,6 +2,30 @@
 #+TITLE: Arachneion-Pallashass
 #+STARTUP: showall
 
+#+CAPTION: 
+#+ATTR_HTML: :alt Cover Arachneion-Pallashass :style float: right;
+[[file:../img/buch-arachneion_350x490.jpg]]
+
+*DER ARACHNE-MYTHOS IN EPISCHER NEUERZÄHLUNG.*
+
+#+BEGIN_QUOTE
+Ihr müsst mir ein Versprechen schwören.\\
+Ihr könnt es nicht abschlagen,\\
+ist’s der letzte Wunsch des grausam Sterbenden.\\
+*-- IDMON VON KOLOPHON*\\
+*Vater der Arachne*
+#+END_QUOTE
+
+Mit diesem Wunsch beginnt die Reise des [[file:asklepios.org][Asklepios]], dem legendären Heiler und Teilnehmer der [[file:argonauten.org][Argonautenfahrt]]. Er soll sich der [[file:arachne.org][Tochter des Idmon]] annehmen und sie in eine neue Heimat führen.\\
+Doch ein schwerer Makel liegt auf Asklepios. Ein [[file:frevel-des-asklepios.org][Frevel]], der die [[file:goetter.org][Götter]] auf den Plan ruft und ihn bis an den Rand der Welt verfolgt.\\
+Und darüber hinaus.
+
+#+INCLUDE: "../../includes/arachneion-pallashass-links.html" html
+
+Epische Tragödie\\
+552 Seiten\\
+Erschienen: 12.01.2016
+
 ** Personae
 -  Menschen und Tiere
 -  [[file:asklepios.org][Asklepios]]: Legendärer Heiler und Teilnehmer der
