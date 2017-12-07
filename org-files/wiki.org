@@ -46,7 +46,7 @@ Antikes Versepos\\
 296 Seiten\\
 Erschienen: 06.12.2016
 
-+ [[file:./achaia/titaneion-2.org][Zur Wiki-Seite]]
+- [[file:./achaia/titaneion-2.org][Zur Wiki-Seite]]
 -----
 *** TITANEION - Titanenschlacht Episoda 1: Bestienborn
 #+CAPTION: 
@@ -73,11 +73,34 @@ Antikes Versepos\\
 292 Seiten\\
 Erschienen: 12.06.2016
 
-+ [[file:./achaia/titaneion-1.org][Zur Wiki-Seite]]
+- [[file:./achaia/titaneion-1.org][Zur Wiki-Seite]]
 -----
+*** ARACHNEION - Pallashass
+#+CAPTION: 
+#+ATTR_HTML: :alt Cover Arachneion-Pallashass :style float: right;
+[[file:./img/buch-arachneion_350x490.jpg]]
 
-#+INCLUDE: "../includes/arachneion-pallashass.html" html
+*DER ARACHNE-MYTHOS IN EPISCHER NEUERZÄHLUNG.*
 
+#+BEGIN_QUOTE
+Ihr müsst mir ein Versprechen schwören.\\
+Ihr könnt es nicht abschlagen,\\
+ist’s der letzte Wunsch des grausam Sterbenden.\\
+*-- IDMON VON KOLOPHON*\\
+*Vater der Arachne*
+#+END_QUOTE
+
+Mit diesem Wunsch beginnt die Reise des [[file:./achaia/asklepios.org][Asklepios]], dem legendären Heiler und Teilnehmer der [[file:./achaia/argonauten.org][Argonautenfahrt]]. Er soll sich der [[file:./achaia/arachne.org][Tochter des Idmon]] annehmen und sie in eine neue Heimat führen.\\
+Doch ein schwerer Makel liegt auf Asklepios. Ein [[file:./achaia/frevel-des-asklepios.org][Frevel]], der die [[file:./achaia/goetter.org][Götter]] auf den Plan ruft und ihn bis an den Rand der Welt verfolgt.\\
+Und darüber hinaus.
+
+#+INCLUDE: "../includes/arachneion-pallashass-links.html" html
+
+Epische Tragödie\\
+552 Seiten\\
+Erschienen: 12.01.2016
+
+- [[file:./achaia/arachneion-pallashass.org][Zur Wiki-Seite]]
 -----
 
 #+INCLUDE: "../includes/ikareion-taurusflucht.html" html
