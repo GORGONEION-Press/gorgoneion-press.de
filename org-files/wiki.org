@@ -128,7 +128,7 @@ ich freute mich über den Fluch.\\
 *Gattin des Minos, König von Kreta*
 #+END_QUOTE
 
-[[file:./achaia/pasiphaie.org][Pasiphae]], geschwängert vom [[file:./achaia/kretischer-stier.org][Stier]] des [[file:./achaia/poseidon.org][Poseidon]], hat eine [[file:./achaia/minotaurus.org][Missgeburt]] in die Welt gesetzt. [[file:./achaia/daedalus.org][Daedalus]], von König [[file:./achaia/minos.org][Minos]] ausgesandt, es zu töten, ahnt nicht, mit welch schrecklichem Fluch das Wesen belegt ist. Einem Fluch, der ihm das Kostbarste nehmen wird, das er besitzt. Eine Episode aus der Entstehung des [[file:./achaia/labyrinth-des-minotaurus.org][Labyrinths des Minotaurus]].
+[[file:./achaia/pasiphae.org][Pasiphae]], geschwängert vom [[file:./achaia/kretischer-stier.org][Stier]] des [[file:./achaia/poseidon.org][Poseidon]], hat eine [[file:./achaia/minotaurus.org][Missgeburt]] in die Welt gesetzt. [[file:./achaia/daedalus.org][Daedalus]], von König [[file:./achaia/minos.org][Minos]] ausgesandt, es zu töten, ahnt nicht, mit welch schrecklichem Fluch das Wesen belegt ist. Einem Fluch, der ihm das Kostbarste nehmen wird, das er besitzt. Eine Episode aus der Entstehung des [[file:./achaia/labyrinth-des-minotaurus.org][Labyrinths des Minotaurus]].
 
 #+Include: "../includes/ikareion-taurusflucht-links.html" html
 
