@@ -110,8 +110,60 @@ Erschienen: 12.01.2016
 - [[file:./achaia/arachneion-pallashass.org][Zur Wiki-Seite]]
 -----
 
-#+INCLUDE: "../includes/ikareion-taurusflucht.html" html
+*** Ikareion-Taurusflucht
+
+#+CAPTION: 
+#+ATTR_HTML: :alt Cover Ikareion-Taurusflucht :style float: right;
+[[file:./img/cover-ikareion.jpg]]
+
+*DER FALL DES DAEDALUS.*
+
+#+BEGIN_QUOTE
+Was kann die Liebe für ’ne Strafe sein,\\
+viel schlimmer noch\\
+als jeder Tod.\\
+Wüsst ich’s aus eigenem Erfahrn nicht besser,\\
+ich freute mich über den Fluch.\\
+*-- PASIPHAE*\\
+*Gattin des Minos, König von Kreta*
+#+END_QUOTE
+
+[[file:./achaia/pasiphaie.org][Pasiphae]], geschwängert vom [[file:./achaia/kretischer-stier.org][Stier]] des [[file:./achaia/poseidon.org][Poseidon]], hat eine [[file:./achaia/minotaurus.org][Missgeburt]] in die Welt gesetzt. [[file:./achaia/daedalus.org][Daedalus]], von König [[file:./achaia/minos.org][Minos]] ausgesandt, es zu töten, ahnt nicht, mit welch schrecklichem Fluch das Wesen belegt ist. Einem Fluch, der ihm das Kostbarste nehmen wird, das er besitzt. Eine Episode aus der Entstehung des [[file:./achaia/labyrinth-des-minotaurus.org][Labyrinths des Minotaurus]].
+
+#+Include: "../includes/ikareion-taurusflucht-links.html" html
+
+Kurzepos\\
+ca. 22 Seiten\\
+Erschienen: 24.10.2015
 
 -----
 
-#+INCLUDE: "../includes/gorgoneion.html" html
+*** Gorgoneion-Eine Tragodia
+
+#+CAPTION: 
+#+ATTR_HTML: :alt Cover Gorgoneion-Eine Tragodia :style float: right;
+[[file:./img/cover-gorgoneion.jpg]]
+
+*DIE TRAGISCHE ROMANZE DES PERSEUS UND DER MEDUSA.*
+
+#+BEGIN_QUOTE
+Welch grimmig Schlachtenzorn\\
+erflammt in meiner Brust!\\
+Mit blutlüsternd trümmernd Schwert in meiner Hand\\
+steh ich nun hier,\\
+das Monstrum,\\
+es zu spalten!\\
+So erzittere vor dem Sohn des Zeus!\\
+*-- PERSEUS*\\
+*Berühmter Heros und Sohn des Zeus*
+#+END_QUOTE
+
+Die [[file:./achaia/gorgonen.org][Gorgone]] [[file:./achaia/medusa.org][Medusa]] lebt zurückgezogen in einer Höhle außerhalb der Zivilisation. Vom Fluch des [[file:./achaia/ephyalkes.org][Ephyalkes]] getroffen, wachsen ihr zehn Jahre lang Haare statt Nattern und jeder Mann, der sie zu Gesicht bekommt, verliebt sich in sie. Doch eines Tages erscheint [[file:./achaia/perseus.org][Perseus]], entsendet von [[file:./achaia/polydektes.org][Polydektes]], die Gorgone zu ermorden.\\
+#+ATTR_HTML: :target _blank
+Ausgezeichnet mit dem [[http://www.marburg-con.de/][Marburg Award]].
+
+#+INCLUDE: "../includes/gorgoneion-links.html" html
+
+Kurzepos\\
+ca. 24 Seiten\\
+Erschienen: 17.05.2015
