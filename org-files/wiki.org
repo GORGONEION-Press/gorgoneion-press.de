@@ -6,8 +6,6 @@
 
 Hier findest du alle Informationen zur *Welt Achaia* und allen Werken, die in, auf und unter ihr spielen.
 
-[[file:achaia.org][Vollständiger Index aller Seiten]]
-
 -----
 
 ** Die Welt
@@ -136,6 +134,8 @@ Kurzepos\\
 ca. 22 Seiten\\
 Erschienen: 24.10.2015
 
+- [[file:./achaia/ikareion-taurusflucht.org][Zur Wiki-Seite]]
+
 -----
 
 *** Gorgoneion-Eine Tragodia
@@ -167,3 +167,5 @@ Ausgezeichnet mit dem [[http://www.marburg-con.de/][Marburg Award]].
 Kurzepos\\
 ca. 24 Seiten\\
 Erschienen: 17.05.2015
+
+- [[file:./achaia/gorgoneion-eine-tragodia.org][Zur Wiki-Seite]]
